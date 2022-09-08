@@ -15,6 +15,8 @@ Route::get('think', function () {
 
 Route::get('hello/:name', 'index/hello');
 
+Route::get('monolog/index','index/monolog.index/index');
+
 return [
 
 ];
