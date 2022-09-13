@@ -9,4 +9,6 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-return [];
+return [
+    'train-booking-date' => 'app\common\command\Train',
+];
